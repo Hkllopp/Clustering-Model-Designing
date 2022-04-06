@@ -1,3 +1,9 @@
+# submissions
+/subs
+
+#source
+/notebooksSource
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -11,7 +17,7 @@ __pycache__/
 build/
 develop-eggs/
 dist/
-downloads/
+extracts/
 eggs/
 .eggs/
 lib/
